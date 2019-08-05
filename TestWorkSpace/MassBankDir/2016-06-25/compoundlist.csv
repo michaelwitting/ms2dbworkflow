@@ -1,0 +1,4 @@
+ID,Name,SMILES,RT,CAS
+60,Folic acid,Nc1nc2ncc(CNc3ccc(cc3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)nc2c(=O)[nH]1,,
+76,Luteolin,Oc1cc(O)c2c(c1)oc(cc2=O)-c1ccc(O)c(O)c1,,
+79,Kaempferol,Oc1ccc(cc1)-c1oc2cc(O)cc(O)c2c(=O)c1O,,
